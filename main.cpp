@@ -14,6 +14,7 @@ int main()
 >>>>>>> branch2
 =======
     std::cout << "branche 3" << std::endl;
+    std::cout << "allez" << std::endl;
 >>>>>>> branch3
     std::cout << "encore" << std::endl;
     return 0;
