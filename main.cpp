@@ -17,5 +17,6 @@ int main()
     std::cout << "allez" << std::endl;
 >>>>>>> branch3
     std::cout << "encore" << std::endl;
+    std::cout<< "branche 4" <<std::endl;
     return 0;
 }
